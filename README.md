@@ -8,11 +8,11 @@
 https://cryptic-beach-71491.herokuapp.com
 
 ## 使用技術
-###　バックエンド
+### バックエンド
 * Ruby 2.6.3
 * Rails 5.1.6
 
-###　フロントエンド
+### フロントエンド
 * HTML/CSS
 * Bootstrap 3.7.7
 
